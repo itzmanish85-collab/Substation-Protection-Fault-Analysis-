@@ -1,0 +1,25 @@
+{
+  "project": "Substation Protection & Fault Analysis",
+  "system": {
+    "incoming_voltage_kv": 33,
+    "transformer_rating_mva": 5,
+    "transformer_ratio_kv": "33/11",
+    "outgoing_feeders": 3
+  },
+  "protection": [
+    "Overcurrent",
+    "Earth Fault"
+  ],
+  "fault_cases": [
+    "Three-phase fault at 11 kV bus",
+    "Line-to-ground fault at 11 kV bus",
+    "Line-to-line fault at 11 kV bus",
+    "Three-phase fault on feeder",
+    "Line-to-ground fault on feeder"
+  ],
+  "software": [
+    "ETAP",
+    "AutoCAD Electrical"
+  ],
+  "status": "Academic project template; populate results from the actual ETAP model."
+}

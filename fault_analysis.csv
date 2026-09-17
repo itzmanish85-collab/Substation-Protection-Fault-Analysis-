@@ -1,0 +1,6 @@
+Fault Case,Fault Type,Location,Fault Current,Minimum Voltage,Relay Operation,Circuit Breaker Operation
+1,Three-Phase,11 kV Bus,TBD,TBD,TBD,TBD
+2,Line-to-Ground,11 kV Bus,TBD,TBD,TBD,TBD
+3,Line-to-Line,11 kV Bus,TBD,TBD,TBD,TBD
+4,Three-Phase,Feeder,TBD,TBD,TBD,TBD
+5,Line-to-Ground,Feeder,TBD,TBD,TBD,TBD
